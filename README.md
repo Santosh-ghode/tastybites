@@ -19,7 +19,7 @@ TastyBites is a passion-driven restaurant dedicated to serving mouth-watering me
 - HTML5
 - CSS3
 - JavaScript
-# tastybites
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
