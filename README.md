@@ -40,25 +40,6 @@ TastyBites is a passion-driven restaurant dedicated to serving mouth-watering me
         </nav>
     </header>
 
-    <main>
-        <section id="about">
-            <h2>About TastyBites</h2>
-            <p>
-                At <strong>TastyBites</strong>, we believe that every meal should be a delightful experience. 
-                Our chefs craft each dish with care, using only the freshest and highest quality ingredients.
-            </p>
-            <p>
-                From classic favorites to innovative new recipes, we aim to satisfy every taste bud. 
-                Whether you visit us for a cozy dinner or order online, we guarantee deliciousness in every bite.
-            </p>
-            <p>
-                Our mission is simple: bring happiness to people through great food and exceptional service.
-            </p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 TastyBites. All rights reserved.</p>
-    </footer>
+    
 </body>
 </html>
